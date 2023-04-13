@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.movies_manager"},{"l":"com.example.movies_manager.dao"},{"l":"com.example.movies_manager.dto"},{"l":"com.example.movies_manager.entity"},{"l":"com.example.movies_manager.external"},{"l":"com.example.movies_manager.rest"}];updateSearchResults();

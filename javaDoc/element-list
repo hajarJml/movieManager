@@ -1,0 +1,6 @@
+com.example.movies_manager
+com.example.movies_manager.dao
+com.example.movies_manager.dto
+com.example.movies_manager.entity
+com.example.movies_manager.external
+com.example.movies_manager.rest
